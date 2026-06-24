@@ -139,7 +139,9 @@ python op_rah_vnd.py
 ├── op_rah_vnd.py      # Implementação do VND em Python
 ├── OP_RAH.mod         # Modelo exato em OPL/CPLEX (A1)
 ├── OP_RAH.dat         # Dados da instância para o CPLEX
+├── Relatório_A3.pdf   # Relatório da Atividade A3
 └── README.md          # Este arquivo
+
 ```
 
 ---
@@ -180,3 +182,10 @@ A instância é original, desenvolvida com base em coordenadas geográficas reai
 - FISCHETTI, M.; SALAZAR GONZÁLEZ, J. J.; TOTH, P. Solving the orienteering problem through branch-and-cut. *INFORMS Journal on Computing*, v. 10, n. 2, p. 133–148, 1998.
 - VANSTEENWEGEN, P. et al. A guided local search metaheuristic for the team orienteering problem. *European Journal of Operational Research*, v. 196, n. 1, p. 118–127, 2009.
 - R2AH PROJECT — Robô Ambiental Híbrido. UFPB, 2026. Disponível em: https://r2ah.ci.ufpb.br/
+- CHAO, I.-M.; GOLDEN, B. L.; WASIL, E. A. The team orienteering problem. 
+  *European Journal of Operational Research*, v. 88, n. 3, p. 464–474, 1996.
+- KARP, R. M. Reducibility among combinatorial problems. In: *Complexity of 
+  Computer Computations*. Nova York: Springer, 1972. p. 85–103.
+- SHEN, S. et al. A survey of the orienteering problem: model evolution, 
+  algorithmic advances, and future directions. *arXiv preprint* arXiv:2512.16865, 
+  dez. 2025. Disponível em: https://arxiv.org/abs/2512.16865
